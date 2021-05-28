@@ -1,4 +1,4 @@
-# GNN_Introduction
+# GNN-Introduction
 GNNの勉強の取っ掛かりとしておすすめの資料をまとめました。
 
 ## 論文
